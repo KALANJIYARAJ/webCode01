@@ -1,0 +1,31 @@
+.searchbox{
+   margin: 10px 130px;
+   padding-left:10px;
+   padding-top: 10px;
+   padding-bottom:10px;
+   width:580px;
+   border: 2px solid black;
+   border-radius: 25px;
+   display: flex;
+   align-items: center;
+  
+   
+}
+.searchdiv{
+    display: flex;
+    margin: 20px 10px;
+    align-items: center;
+    justify-content: center;
+}
+#myInput{
+   width:75%;
+  font-size: 16px;
+  border: 1px white;
+
+}
+
+.row{
+    margin:10px !important;
+    display: flex;
+    justify-content: center;
+}
